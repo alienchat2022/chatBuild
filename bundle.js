@@ -15866,17 +15866,17 @@ var app = (function () {
     			t4 = space();
     			a = element("a");
     			a.textContent = "Go to Home Page";
-    			attr_dev(img, "class", "connect__pop-up-img svelte-1q0qph6");
+    			attr_dev(img, "class", "connect__pop-up-img svelte-rptnq6");
     			if (!src_url_equal(img.src, img_src_value = "https://global-uploads.webflow.com/623494ba6746d1d287d735b3/6270f418dfac0164e4d550c8_pop-up-planes-p-1080.png")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pop up img");
     			add_location(img, file$5, 77, 6, 2473);
-    			attr_dev(p0, "class", "svelte-1q0qph6");
+    			attr_dev(p0, "class", "svelte-rptnq6");
     			add_location(p0, file$5, 78, 6, 2646);
-    			attr_dev(p1, "class", "errorMessage svelte-1q0qph6");
+    			attr_dev(p1, "class", "errorMessage svelte-rptnq6");
     			toggle_class(p1, "active", /*matamaskErrorState*/ ctx[1]);
     			add_location(p1, file$5, 79, 6, 2676);
     			attr_dev(a, "href", "/home");
-    			attr_dev(a, "class", "svelte-1q0qph6");
+    			attr_dev(a, "class", "svelte-rptnq6");
     			add_location(a, file$5, 82, 6, 2783);
     		},
     		m: function mount(target, anchor) {
@@ -15948,16 +15948,16 @@ var app = (function () {
     			t4 = space();
     			button = element("button");
     			t5 = text(/*connectButtonText*/ ctx[4]);
-    			attr_dev(img, "class", "connect__pop-up-img svelte-1q0qph6");
+    			attr_dev(img, "class", "connect__pop-up-img svelte-rptnq6");
     			if (!src_url_equal(img.src, img_src_value = "https://global-uploads.webflow.com/623494ba6746d1d287d735b3/6270f418dfac0164e4d550c8_pop-up-planes-p-1080.png")) attr_dev(img, "src", img_src_value);
     			attr_dev(img, "alt", "pop up img");
     			add_location(img, file$5, 69, 6, 2047);
-    			attr_dev(p0, "class", "svelte-1q0qph6");
+    			attr_dev(p0, "class", "svelte-rptnq6");
     			add_location(p0, file$5, 70, 6, 2220);
-    			attr_dev(p1, "class", "errorMessage svelte-1q0qph6");
+    			attr_dev(p1, "class", "errorMessage svelte-rptnq6");
     			toggle_class(p1, "active", /*matamaskErrorState*/ ctx[1]);
     			add_location(p1, file$5, 71, 6, 2250);
-    			attr_dev(button, "class", "svelte-1q0qph6");
+    			attr_dev(button, "class", "svelte-rptnq6");
     			add_location(button, file$5, 74, 6, 2357);
     		},
     		m: function mount(target, anchor) {
@@ -16040,19 +16040,19 @@ var app = (function () {
     			if (if_block) if_block.c();
     			t1 = space();
     			img1 = element("img");
-    			attr_dev(img0, "class", "connect__pop-up-img-mob top svelte-1q0qph6");
+    			attr_dev(img0, "class", "connect__pop-up-img-mob top svelte-rptnq6");
     			if (!src_url_equal(img0.src, img0_src_value = "https://uploads-ssl.webflow.com/623494ba6746d1d287d735b3/6274bc5c9fea49802900fad5_UFO_3-min.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "alt", "pop up img");
     			add_location(img0, file$5, 65, 4, 1804);
-    			attr_dev(div0, "class", "connect__pop-up-items svelte-1q0qph6");
+    			attr_dev(div0, "class", "connect__pop-up-items svelte-rptnq6");
     			add_location(div0, file$5, 66, 4, 1969);
-    			attr_dev(img1, "class", "connect__pop-up-img-mob bottom svelte-1q0qph6");
+    			attr_dev(img1, "class", "connect__pop-up-img-mob bottom svelte-rptnq6");
     			if (!src_url_equal(img1.src, img1_src_value = "https://uploads-ssl.webflow.com/623494ba6746d1d287d735b3/6274bd22efef3160bd8e8c13_Planet-min.png")) attr_dev(img1, "src", img1_src_value);
     			attr_dev(img1, "alt", "pop up img");
     			add_location(img1, file$5, 85, 4, 2846);
-    			attr_dev(div1, "class", "connect__pop-up-wrapper");
+    			attr_dev(div1, "class", "connect__pop-up-wrapper svelte-rptnq6");
     			add_location(div1, file$5, 64, 2, 1762);
-    			attr_dev(div2, "class", "connect__pop-up svelte-1q0qph6");
+    			attr_dev(div2, "class", "connect__pop-up svelte-rptnq6");
     			add_location(div2, file$5, 63, 0, 1730);
     		},
     		l: function claim(nodes) {
